@@ -1,3 +1,6 @@
+body {
+    background-color:bisque;
+}
 #container{
     width: 800px;
     margin: 80px auto;
