@@ -12,6 +12,7 @@ function createGrid(squareSize) {
             div.style.width = "40px";
             div.style.height = "40px";
             div.style.opacity = 1;
+            div.className = "box";
             div.addEventListener('mouseenter', () => {
                 darken(div);
             })
