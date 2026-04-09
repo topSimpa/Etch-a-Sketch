@@ -3,6 +3,27 @@
     margin: 80px auto;
     background-color: red;
     padding: 16px;
+    display: flex;
+    flex-flow: column nowrap;
+    border-radius: 20px;
+}
+
+#title-container {
+    display: flex;
+    width: 640px;
+    flex-flow: row nowrap;
+    align-self: center;
+    justify-content: space-between;
+    align-items: center;
+    color: gold;
+    font-size: 24px;
+
+}
+
+#title {
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 #grid{
@@ -11,6 +32,10 @@
     margin-right: auto;
     margin-left: auto;
     background-color: black;
+    border: 20px none red;
+    border-radius: 10px;
+    padding: 10px;
+    
 }
 
 button {
@@ -18,11 +43,15 @@ button {
     height: 100px;
     background-color: white;
     border-radius: 50%;
+    border-style: none;
 }
 
 #button-area {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .button-container {
