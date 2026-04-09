@@ -1,0 +1,14 @@
+#container{
+    width: 800px;
+    margin: 80px auto;
+    background-color: red;
+    padding: 16px;
+}
+
+#grid{
+    display: flex;
+    width: 640px;
+    flex-flow: row wrap;
+    margin-right: auto;
+    margin-left: auto;
+}
