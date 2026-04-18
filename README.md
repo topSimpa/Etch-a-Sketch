@@ -9,7 +9,7 @@ see: [Etch-A-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-s
 This project builds a grid systems that allows for user to draw shapes by interacting with it.<br>
 it uses Javascript driven UI, DOM manipulation and flexbox layout to produce an interactive web app.
 
-see: [live Demo]()
+see: [live Demo](https://topsimpa.github.io/Etch-a-Sketch/)
 
 ## Learning Objectives
 - Pracitce DOM Manipulation using Javascript
